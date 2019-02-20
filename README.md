@@ -12,4 +12,4 @@
 
 ![shema](messpushover.jpg)
 
-![shema](messmail.jpg)
+
