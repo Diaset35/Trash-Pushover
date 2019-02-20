@@ -1,6 +1,6 @@
 # Trash-Pushover
 
-
+Détecteur de remplissage d'une poubelle qui averti par notification via l'appli Pushover ou par mail.
 
 # Schema montage
 
