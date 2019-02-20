@@ -6,13 +6,24 @@
 
 ![shema](Trashpush.png)
 
+# Bibliothèques
+
+#include <uTimerLib.h>
+
+#include <HCSR04.h>
+
+#include <Adafruit_MQTT.h>
+#include <Adafruit_MQTT_Client.h>
+
+#include <WiFi.h>
+
 # Node red
 
 ![shema](trashpushover.png)
 
 ![shema](messpushover.jpg)
 
-# liste composant
+# liste composants
 + 1 HCSR04
 + 1 ESP 32
 + 4 cables male/femelle
